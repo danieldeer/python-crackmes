@@ -1,4 +1,7 @@
 # python-crackmes/obfuscated python code
+
+![Screenshot of the normal difficulty crackme](thumbnail-crackme.png)
+
 I've created some python crackmes.  
 
 Some crackmes (or shall I call them obfuscated python code :)) in the beginner levels may seem complicated but they aren't!  
