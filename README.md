@@ -36,6 +36,6 @@ If you want to contribute, just do it.
 
 # Contributors
 
-[Ari24-cb24](https://github.com/Ari24-cb24)
-[Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k)
-[hirschdaniel](https://hirschdaniel.com)
+- [Ari24-cb24](https://github.com/Ari24-cb24)
+- [Pep8](https://www.youtube.com/watch?v=hgI0p1zf31k)
+- [hirschdaniel](https://hirschdaniel.com)
